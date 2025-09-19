@@ -1,5 +1,0 @@
-{
-  "ShowMessage": true,
-  "Title": "Important Update Notice",
-  "Message": "A major update is coming soon that will change the tool's architecture. Please backup your existing room data before updating. Visit our documentation for migration instructions."
-}
