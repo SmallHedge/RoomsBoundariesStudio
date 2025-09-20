@@ -1,6 +1,6 @@
 {
   "VersionDependant": true,
-  "Show": true,
+  "Show": false,
   "IsWarning": true,
-  "Message": "Outdated version detected. Please follow the migration guide in MigrationGuide.txt in the Rooms+Boundaries Studio folder"
+  "Message": "Outdated Rooms+Boundaries Studio version detected. Follow the migration guide in MigrationGuide.txt before updating."
 }
