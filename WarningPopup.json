@@ -1,6 +1,6 @@
 {
   "VersionDependant": true,
-  "Show": false,
+  "Show": true,
   "Title": "Rooms and Boundaries Studio Notice",
   "Message": "Outdated Rooms+Boundaries Studio version detected. Follow the migration guide in MigrationGuide.txt before updating."
 }
